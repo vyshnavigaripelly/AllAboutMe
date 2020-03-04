@@ -19,6 +19,7 @@ The first task I’d like you to do is to open the All about me app and login in
 
 * Do you feel that being able to choose the colour of your app, would really improve your user experience?
 
-* Would you like to be using this app while commuting? 
+* Would you like to be using this app while commuting? .
+
 
 
