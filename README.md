@@ -1,9 +1,8 @@
 # All About Me :muscle: [![Build Status](https://travis-ci.org/FAC-11/AllAboutMe.svg?branch=master)](https://travis-ci.org/FAC-11/AllAboutMe) [![codecov](https://codecov.io/gh/FAC-11/AllAboutMe/branch/master/graph/badge.svg)](https://codecov.io/gh/FAC-11/AllAboutMe)
 
 _*\
-_*Continued for 2 more sprints as a Graduate Project*_ [Link here](https://allaboutme-af.herokuapp.com/)|
-_*by [Constantina](https://github.com/polyccon) & [Dak](https://github.com/dangerdak)*_
-
+_*Continued for 2 more sprints as a Graduate Project*_ [Link here](https://allaboutme-af.herokuapp.com/)
+_*
 <img src="https://i.imgur.com/emJvg9x.jpg" width="600">
 
 ## Summary :pencil:
