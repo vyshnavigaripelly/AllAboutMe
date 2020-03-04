@@ -1,10 +1,6 @@
 # All About Me :muscle: [![Build Status](https://travis-ci.org/FAC-11/AllAboutMe.svg?branch=master)](https://travis-ci.org/FAC-11/AllAboutMe) [![codecov](https://codecov.io/gh/FAC-11/AllAboutMe/branch/master/graph/badge.svg)](https://codecov.io/gh/FAC-11/AllAboutMe)
 
-_*25.9.17 - 13.10.17 | [Founders & Coders](https://foundersandcoders.com/)
-Student Project*_ | _*by [Constantina](https://github.com/polyccon),
-[Dak](https://github.com/dangerdak), [Jen](https://github.com/Jen-Harris) &
-[Rebeca](https://github.com/rebecacalvoquintero)*_
-[Link Here](https://allaboutme-annafreud.herokuapp.com/)\
+_*\
 _*Continued for 2 more sprints as a Graduate Project*_ [Link here](https://allaboutme-af.herokuapp.com/)|
 _*by [Constantina](https://github.com/polyccon) & [Dak](https://github.com/dangerdak)*_
 
