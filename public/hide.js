@@ -6,3 +6,4 @@ function toggleClip(div){
   div.querySelector('button > #upbutton').classList.toggle("clip");
   div.querySelector('button > #downbutton').classList.toggle("clip");
 }
+}
