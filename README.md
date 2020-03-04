@@ -127,7 +127,7 @@ Or look at this short video that shows basic functionality of the app:
 First clone this repo:
 
 ```
-git clone git@github.com:FAC-11/AllAboutMe.git
+git clone git@github.com:vyshnavigaripelly/AllAboutMe.git
 ```
 
 then run `npm i` to install the dependencies for the app.
