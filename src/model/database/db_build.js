@@ -20,4 +20,4 @@ const build = () => {
 if (require.main === module) {
   build();
 }
-module.exports = build;
+module.exports = build;.
