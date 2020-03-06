@@ -6,3 +6,4 @@ exports.get = (req, res) => {
     name: req.session.user,
   });
 };
+.
