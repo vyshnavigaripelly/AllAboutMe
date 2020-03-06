@@ -7,9 +7,7 @@ _*
 
 ## Summary :pencil:
 
-All About Me is a mobile-first web application which allows young people at the
-Anna Freud centre to answer questions about their mental health and send their
-answers to their mental heath workers.
+All About Me is a mobile-first web application 
 
 
 
