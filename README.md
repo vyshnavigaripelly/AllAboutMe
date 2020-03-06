@@ -11,20 +11,7 @@ All About Me is a mobile-first web application which allows young people at the
 Anna Freud centre to answer questions about their mental health and send their
 answers to their mental heath workers.
 
-## Challenge :warning:
 
-Patients at [The Anna Freud Centre](http://www.annafreud.org/) were tired of
-being asked the same questions every time their clinician changed or when they
-went to a new centre. They wrote up the most commonly asked questions into one
-questionnaire which they could give to their clinicians, however it was still
-paper-based, papers often get lost and they found themselves again in a
-distressing place where they would have to repeat answers to personal questions.
-
-## Solution :bulb:
-
-All About Me allows patients to answer the questionnaire online in their own
-time, save their answers, and update their details as needed. When they're ready
-they can send their form to their clinician.
 
 ## How?
 
