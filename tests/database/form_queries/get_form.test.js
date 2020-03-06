@@ -1,4 +1,4 @@
-const test = require('tape');.
+const test = require('tape');
 const dbReset = require('../../../src/model/database/db_seed');
 const { getForm } = require('../../../src/model/form_queries');
 
