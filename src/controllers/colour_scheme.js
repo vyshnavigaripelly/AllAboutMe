@@ -5,3 +5,4 @@ exports.get = (req, res) => {
     logoutButton: true,
   });
 }
+.
