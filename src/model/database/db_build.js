@@ -1,4 +1,4 @@
-const path = require('path');
+const path = require('path');.
 const dbConnection = require('./db_connection');
 const QueryFile = require('pg-promise').QueryFile;
 
