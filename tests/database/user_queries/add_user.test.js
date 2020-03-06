@@ -1,4 +1,4 @@
-const test = require('tape');
+const test = require('tape');.
 const dbConnection = require('../../../src/model/database/db_connection');
 const dbReset = require('../../../src/model/database/db_seed');
 const { addUser } = require('../../../src/model/user_queries');
