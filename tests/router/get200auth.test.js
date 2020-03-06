@@ -1,4 +1,4 @@
-const test = require('tape');.
+const test = require('tape');
 const request = require('supertest');
 const app = require('../../src/app');
 const dbReset = require('../../src/model/database/db_seed');
