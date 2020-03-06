@@ -8,3 +8,4 @@ test('generateToken', (t) => {
   t.notEqual(actual, actual2, 'Doesn\'t always return the same token');
   t.end();
 });
+.
