@@ -1,4 +1,4 @@
-const dbConnection = require('./database/db_connection');.
+const dbConnection = require('./database/db_connection');
 
 const fields = {
   about: [
