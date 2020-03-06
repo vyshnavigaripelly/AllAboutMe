@@ -19,7 +19,7 @@ test('Forgot route post with invalid email', t => {
       t.error(err, 'No error when entering invalid email in fogot page');
       t.end();
     });
-});
+});,
 test('Login route when logging with wrong password is NOT successful', t => {
   dbReset().then(() => {
     request(app)
