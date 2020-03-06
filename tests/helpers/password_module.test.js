@@ -49,4 +49,4 @@ test('comparePasswords with wrong password', t => {
       t.end();
     });
 });
-.
+
