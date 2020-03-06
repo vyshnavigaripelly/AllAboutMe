@@ -2,7 +2,7 @@ Hello Clinician
 Please see below my answers for the 'All about me' questionnaire:
 
 
-   About Me
+   About Me.
    Name: {{name}}
    Things you like: (including hobbies and interests){{likes}}
    Things you dislike: {{dislikes}}
