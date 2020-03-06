@@ -1,4 +1,4 @@
-const dbConnection = require('./database/db_connection');.
+const dbConnection = require('./database/db_connection');
 
 const queries = {
   insertUser: 'INSERT INTO users (name, email, password) VALUES ($1, $2, $3) RETURNING id',
