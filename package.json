@@ -40,7 +40,7 @@
     "express-handlebars": "^3.0.0",
     "pg": "^7.3.0",
     "pg-promise": "^6.10.1",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "sendemail": "^3.3.0",
     "serve-favicon": "^2.4.5",
     "tachyons-custom": "^4.6.0"
